@@ -1,6 +1,7 @@
 liste action :
 
-JSF
-
 Application lourde
 Tchenologie swing
+
+JSF
+ Ajout de JSF dans les technologies web
