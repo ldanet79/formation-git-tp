@@ -1,5 +1,5 @@
 <htmL>
 <body>
-test
+getFulltest
 </body>
 </html>
